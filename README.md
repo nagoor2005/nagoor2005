@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mohammed Nagoor Meerasha
 
-Software Engineer @ Zoho Corporation
+I am a student of PSG Institute of Technology and Applied Research (Till present 2025)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
