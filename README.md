@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Mohammed Nagoor Meerasha
 
-**nagoor2005/nagoor2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="507" height="381" alt="image" src="https://github.com/user-attachments/assets/860caee3-b9a7-47eb-8c77-2a2f3d3d8a78" />
+
 
 Here are some ideas to get you started:
 
