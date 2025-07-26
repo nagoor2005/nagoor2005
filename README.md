@@ -1,4 +1,3 @@
 ## Hi there 👋 It's me Mohammed Nagoor Meerasha
 
-<img width="507" height="381" alt="image" src="https://github.com/user-attachments/assets/860caee3-b9a7-47eb-8c77-2a2f3d3d8a78" />
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
