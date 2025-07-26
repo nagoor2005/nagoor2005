@@ -23,4 +23,4 @@ Software Engineer @ Zoho Corporation
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nagoor_2005?theme=dark&font=Marcellus&ext=heatmap)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Nagoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagoor2005&bg_color=15090f&color=ffffff&line=4ef461&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
