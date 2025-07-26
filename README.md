@@ -23,6 +23,6 @@ Software Engineer @ Zoho Corporation
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Nagoor's GitHub stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Nagoor_2005?theme=dark&font=Marcellus&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nagoor_2005?theme=dark&font=Marcellus&ext=heatmap)
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
