@@ -25,4 +25,6 @@ I am a student of PSG Institute of Technology and Applied Research (Till present
 
 ![Nagoor's LeetCode Stats](https://leetcard.jacoblin.cool/Nagoor_2005?theme=nord&font=Marcellus&ext=heatmap)
 
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/smnagoo000d?theme=dark)
+
 ![Nagoor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagoor2005&bg_color=15090f&color=ffffff&line=4ef461&point=ffffff&area=true&hide_border=true)
