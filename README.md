@@ -1,12 +1,23 @@
 ## Hi there 👋 It's me Mohammed Nagoor Meerasha
 
-🎓 A 2nd-year engineering student on a mission to become a **multi-trillionaire** through technology.  
-💻 Passionate about **Full Stack Web Development (MERN)**, **Data Structures & Algorithms (DSA)**, and **UI/UX Design**.  
-🚀 I build real-world projects and solve problems to grow every single day.
+- 🎓 A 2nd-year engineering student on a mission to become a **multi-trillionaire** through technology.  
+- 💻 Passionate about **Full Stack Web Development (MERN)**, **Data Structures & Algorithms (DSA)**, and **UI/UX Design**.  
+- 🚀 I build real-world projects and solve problems to grow every single day.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning DSA and Full Stack Web Development
+---
+
+🧪 Portfolio: **Coming Soon... Stay Tuned 🚧**
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+## 📚 Currently Learning
+
+- 📘 **Full Stack Development** (MERN) – React, Node, Express, MongoDB  
+- 🧠 **DSA** – Practicing on LeetCode & GeeksforGeeks  
+- 🎨 **UI/UX Design** – Designing clean, user-focused interfaces using Figma  
+- 🔄 **Version Control** – Advanced Git and GitHub workflows
+
+---
+
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nagoor_2005) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammed-nagoor-meerasha-s-1207ab376/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nagoormeeeasha__2005/)
