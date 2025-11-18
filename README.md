@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mohammed Nagoor Meerasha
 
-- 🎓 A 2nd-year engineering student on a mission to become a **multi-trillionaire** through technology.  
+- 🎓 A 2nd-year engineering student on a mission to become a **multi-trillionaire** inspired by "Elon Musk" through technology.  
 - 💻 Passionate about **Full Stack Web Development (MERN)**, **Data Structures & Algorithms (DSA)**, and **UI/UX Design**.  
 - 🚀 I build real-world projects and solve problems to grow every single day.
 
